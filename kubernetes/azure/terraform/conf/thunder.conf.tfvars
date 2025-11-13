@@ -23,7 +23,7 @@ padding              = "001"
 # AKS configuration
 
 kubernetes_version             = "1.32.6"
-default_node_pool_vm_size      = "B_Standard_B2pls_v2"
+default_node_pool_vm_size      = "Standard_D2s_v3"
 default_node_pool_count        = 2
 default_node_pool_os_disk_size = 64
 default_node_pool_max_pods     = 30
